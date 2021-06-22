@@ -1,0 +1,44 @@
+.main-body{
+    background-color: rgb(53, 51, 51);
+    color: white;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+#image-about{
+    width: 400px;
+    float: left;
+}
+.snippet{
+    font-style: italic;
+}
+.about-me{
+    margin-bottom: 5px;
+}
+
+.skills-title{
+    font-weight: bold;
+}
+
+#front-end{
+    margin-bottom: 2.5%;
+}
+
+#dev-skills{
+    margin-bottom: 2.5%;
+    margin-top: 2.5%;
+}
+
+.skills{
+   margin-right: 2.5%; 
+   margin-bottom: 2.5%;
+}
+
+.express-skills{
+    float: left;
+    padding-top: 3%;
+    margin-right: 2.5%;
+}
+
+.hr-about{
+    background-color: white;
+}

@@ -1,0 +1,77 @@
+.project-container{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+/* Projects img left - text right */
+
+.project-img-left{
+    height: 15rem;
+    float: left;
+    margin-bottom: 5%;
+    margin-left: 2.5%;
+}
+
+.title-right{
+    margin-left: 35%;
+}
+
+.description-right{
+    margin-left: 35%;
+    margin-top: 1.5%;
+    margin-right: 5%;
+}
+
+.technologies-used-right{
+    margin-left: 35%;
+    margin-top: 2.5%;
+    font-weight: bold;
+}
+
+.logo-right{
+    margin-left: 4.5%; 
+    margin-top: 1.5%;  
+}
+
+.a-div-right{
+    margin-top: 3%;
+    margin-left: 32%;
+}
+.a-right{
+    margin-left: 5%;
+}
+
+.hr-line{
+    width: 75%;
+    height: 5px;
+}
+
+/* Projects img right - text left */
+
+.project-img-right{
+    height: 20rem;
+    float: right;
+    margin-bottom: 5%;
+    margin-right: 2.5%;
+}
+.title-left{
+    margin-left: 5%;
+}
+.description-left{
+    margin-left: 5%;
+    margin-top: 1.5%;
+    margin-right: 30%;
+}
+.technologies-used-left{
+    margin-left: 5%;
+    margin-top: 2.5%;
+    font-weight: bold;
+}
+.logo-left{
+    margin-left: 4.5%; 
+    margin-top: 1.5%;  
+}
+.a-div-left{
+    margin-top: 3%;
+
+}
