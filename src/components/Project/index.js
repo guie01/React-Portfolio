@@ -68,7 +68,7 @@ const Project = () => {
                 <DiCss3 size={50} class="logo-right" />
 
                 <div class="a-div-right">
-                    <a target="_blank" rel="noreferrer" href="https://github.com/guie01/User-Directory5" class='a-right'>Github</a>
+                    <a target="_blank" rel="noreferrer" href="https://github.com/guie01/User-Directory" class='a-right'>Github</a>
                     <a target="_blank" rel="noreferrer" href="https://secure-crag-21869.herokuapp.com/" class='a-right'>Deployed App</a>
                 </div>
                 
