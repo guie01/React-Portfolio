@@ -50,7 +50,7 @@ const Project = () => {
                     <BsGeoAlt size={50} class="logo-left" />
                     <div class="a-div-left">
                         <a target="_blank" rel="noreferrer" href="https://github.com/guie01/Project-W7-Group-5" class='a-right'>Github</a>
-                        <a target="_blank" rel="noreferrer" href="https://guie01.github.io/Project-W7-Group-5/form.html" class='a-right'>Deployed App</a>
+                        <a target="_blank" rel="noreferrer" href="https://guie01.github.io/Project-W7-Group-5" class='a-right'>Deployed App</a>
                     </div>
                     <hr class="hr-line"></hr>
                 </div>
