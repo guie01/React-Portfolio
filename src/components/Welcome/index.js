@@ -1,7 +1,7 @@
 import React from 'react';
 import "./style.css";
 import image from "../../assets/avataaars.png";
-import pdf from "../../assets/GUILLERMO GARCIA RESUME.pdf"
+import pdf from "../../assets/GUILLERMO GARCIA RESUME (1).pdf"
 import { DiGithubAlt } from "react-icons/di"
 import { FaLinkedinIn } from "react-icons/fa"
 import { HiDocumentDownload } from "react-icons/hi"
