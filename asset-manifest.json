@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.23d78e71.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.e167029d.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.e167029d.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.8e19d3e9.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.8e19d3e9.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/React-Portfolio/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.7bc3b097.chunk.js": "/React-Portfolio/static/js/2.7bc3b097.chunk.js",
+    "static/js/2.7bc3b097.chunk.js.map": "/React-Portfolio/static/js/2.7bc3b097.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/React-Portfolio/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.23d78e71.chunk.css.map": "/React-Portfolio/static/css/main.23d78e71.chunk.css.map",
+    "static/js/2.7bc3b097.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.7bc3b097.chunk.js.LICENSE.txt",
+    "static/media/GUILLERMO GARCIA RESUME (1).2d567c90.pdf": "/React-Portfolio/static/media/GUILLERMO GARCIA RESUME (1).2d567c90.pdf",
+    "static/media/avataaars (1).59161903.png": "/React-Portfolio/static/media/avataaars (1).59161903.png",
+    "static/media/avataaars.5711d861.png": "/React-Portfolio/static/media/avataaars.5711d861.png",
+    "static/media/employeelist.37bb2873.png": "/React-Portfolio/static/media/employeelist.37bb2873.png",
+    "static/media/nationalpark.601585ee.png": "/React-Portfolio/static/media/nationalpark.601585ee.png",
+    "static/media/weathermock.cf06207f.png": "/React-Portfolio/static/media/weathermock.cf06207f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e19d3e9.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.7bc3b097.chunk.js",
+    "static/css/main.23d78e71.chunk.css",
+    "static/js/main.e167029d.chunk.js"
+  ]
+}
